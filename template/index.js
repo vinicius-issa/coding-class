@@ -1,5 +1,3 @@
-let nome = prompt("Qual o seu nome")
-let sobrenome = prompt("Qual o seu sobrenome")
+let nome = prompt("Digite seu nome")
+alert("Ola " + nome)
 
-alert(nome + " " + sobrenome)
-console.log(nome + " " + sobrenome)
